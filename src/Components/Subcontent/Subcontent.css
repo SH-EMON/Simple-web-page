@@ -1,0 +1,27 @@
+.subcwrapper{
+    display:flex;
+    padding:10px 10px 10px 0;
+}
+.user-face{
+    width:40%;
+}
+.user-face img{
+    width:215px;
+    height:215px;
+}
+.user-details{
+    width:60%;
+}
+.user-details h3{
+    margin-bottom:5px;
+}
+.add-btn{
+    background-color:paleturquoise;
+    margin-top:10px;
+    width:100px;
+    height:25px;
+    font-family:arial;
+    cursor:pointer;
+    border:1px solid purple;
+    border-radius:5px;
+}

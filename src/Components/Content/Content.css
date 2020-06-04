@@ -1,0 +1,14 @@
+*{margin:0;padding:0;}
+.content-wrapper{
+    display:flex;
+}
+.left-content{
+    width:60%;
+    margin-left:10%;
+    border-right:1px solid lightgray;
+    padding:10px 0;
+}
+.right-content{
+    margin-left:2%;
+    padding:10px 0;
+}
